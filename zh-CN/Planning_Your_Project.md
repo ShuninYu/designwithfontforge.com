@@ -21,21 +21,21 @@ title: 计划好你的项目
 
 项目的范围能够通过你的雄心和自由时间总数来唯一地确定。但是项目范围经常通过字体的集合或家族的用途来确定，或者更进一步说，通过你的客户的需要来确定。当然对于专业字体设计者来说，下面的两个问题通常是确定的因素。
 
-## Feeling
+## 感觉
 
-The most important thing about a type design is the feeling it evokes. This is notoriously hard
-to verbalize, but it is what makes a particular typeface meaningfully different from any other.
+字体设计最重要的在于它所唤起的情感。这种情感很难用语言表达，但正是这种情感使一种字体与其他字体有着本质的区别。
+字体设计最重要的一点，是它所带来的感受。怎样用语言准确描述这种感受，一直都是出了名的困难；但恰恰是这种难以言喻的感觉，使得某一款字体能够与其他字体产生真正有意义的差异。
 
-A type designer in Portugal, Natanael Gama, designed the [Exo family](https://fonts.google.com/fonts/specimen/Exo) with FontForge.
-On his homepage he describes another project for the sculptor [John Williams](http://ndiscovered.com/john-williams/) and includes a graphic showing his brief in a matrix of continuums of feelings:
+葡萄牙字体设计师 Natanael Gama 使用 FontForge 设计了[Exo 字体家族](https://fonts.google.com/fonts/specimen/Exo)。
+在他的主页上，他还介绍了为雕塑家[ John Williams ](http://ndiscovered.com/john-williams/)开展的另一个字体项目，并展示了一张图表，用一组代表不同感受的连续光谱构成一个矩阵，来呈现客户提出的设计需求：
 
-* Figurative to Abstract 50%
-* Graceful to Robust: 30%
-* Calm to Energetic: 0%
-* Puzzling to Plain: 15%
-* Experimental to Standard: 15%
-* Prestigious to Ordinary: 15%
-* Other Ideas: Beautiful, Outside Spaces, Human Condition
+* 具象 ↔ 抽象：50%
+* 优雅 ↔ 强健：30%
+* 平静 ↔ 动感：0%
+* 晦涩 ↔ 直白：15%
+* 实验性 ↔ 标准化：15%
+* 高贵 ↔ 平实：15%
+* 其他关键词：美、户外空间、人类处境
 
 ## 字形覆盖率
 
